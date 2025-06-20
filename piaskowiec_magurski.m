@@ -7,6 +7,7 @@ close all; clear; clc;
 % - kalcyt - barwy pastelowe
 % skala: 20x
 
+
 a = imread('piaskowiec/1N_00.jpg');
 b = imread('piaskowiec/NX_00.jpg');
 b30 = imread('piaskowiec/NX_30.jpg');
